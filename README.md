@@ -31,4 +31,4 @@
   <a href="https://https://www.linkedin.com/in/gabriel-henrique-664bb219a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https:https://twitter.com/gabrielhsanches" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
   <a href="https:github.com/Gabriek0" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
-</div>
+</div> 
