@@ -7,6 +7,7 @@
 - 📒  Estudando Javascript
 - 📙  Estudando HTML
 - 📘  Estudando CSS
+- ⚛️  Estudando Reactjs
 - 🌱 Em constante evolução
 
 
