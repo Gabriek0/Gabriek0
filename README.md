@@ -7,7 +7,7 @@
 - 📒  Estudando Javascript
 - 📙  Estudando HTML
 - 📘  Estudando CSS
-- ⚛️  Estudando Reactjs
+- ⚛️   Estudando React.js
 - 🌱 Em constante evolução
 
 
@@ -22,6 +22,7 @@
   <img align="center" alt="Gabriek0-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriek0-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriek0-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gabriek0-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg">
 </div>
   
   ##
