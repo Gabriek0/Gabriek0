@@ -34,7 +34,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriek0&layout=compact&theme=vision-friendly-dark" alt="gabriek's most languages"/>
 </p>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## 👨 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/gabrielhsanches" target="_blank">
