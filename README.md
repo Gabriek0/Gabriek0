@@ -1,5 +1,5 @@
-<img align="right" height="500px" src="./img/greetings.png"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Gabriel Henrique</h1>
+<img align="right" height="300px" src="./img/greetings.png"/>
+<h1 align="left">Hi, I'm Gabriel Henrique</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gabriek0o&color=blue" alt="Profile views" /> </p>
 
 - 🔥 I'm a front-end web development student.
