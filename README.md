@@ -39,9 +39,6 @@
 ## 👨 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://twitter.com/gabrielhsanches" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Gabriek0-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
 <a href="https://linkedin.com/in/gabriel-henrique-664bb219a" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Gabriek0-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
