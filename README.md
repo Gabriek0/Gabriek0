@@ -4,6 +4,8 @@
 
 - 🔥 I'm a front-end web development student.
 
+- 📜 My portfolio: https://portfolio-gabriek0.vercel.app/
+
 - 📚 I am currently studying Systems Analysis and Development.
 
 - 🔭 I’m currently studying new techonologies.
