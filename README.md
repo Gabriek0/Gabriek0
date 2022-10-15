@@ -4,7 +4,7 @@
 
 - 🔥 I'm a front-end web development student.
 
-- 📜 My portfolio: https://portfolio-gabriek0.vercel.app/
+- 📜 Access my [portfolio](https://portfolio-gabriek0.vercel.app/)
 
 - 📚 I am currently studying Systems Analysis and Development.
 
