@@ -15,8 +15,8 @@
 - :hugs: My [Curriculum](https://gitconnected.com/gabriek0/resume)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-gabriek0.vercel.app/api?username=Gabriek0&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Henrique github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-gabriek0.vercel.app/api/top-langs/?username=Gabriek0&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriek0&show_icons=true&layout=compact&langs_count=16&theme=dracula" alt="Gabriel Henrique github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabriek0&layout=compact&langs_count=16&theme=dracula" />
 </div>
 
 ### 🤹 Main skills:
@@ -67,8 +67,8 @@
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/gabriel.sanches7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/gabriel-henrique-664bb219a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.instagram.com/gabriel.henriq7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/gabriel-henrique-664bb219a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
