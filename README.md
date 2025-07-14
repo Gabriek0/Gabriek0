@@ -7,7 +7,6 @@
 - :hugs: My [Curriculum](https://gitconnected.com/gabriek0/resume)
 - :bookmark_tabs: My Portfolio: [Portfolio](https://portfolio-3-0-eosin.vercel.app/)
 - ⛑️ Connect with me on [LinkedIn](https://www.linkedin.com/in/gabriel-henrique-664bb219a/)
-- 🔭 I’m currently working on [Proffy](https://github.com/Gabriek0/proffy)
 - 📫 Contact me: **gabriel.sanches170@gmail.com**
 - 🌱 I’m currently learning **NodeJS, MongoDB, Express, NestJS, Vitest and Jest.**
 
