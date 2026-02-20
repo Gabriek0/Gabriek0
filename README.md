@@ -1,6 +1,5 @@
 <h2 align="left">Hey, I'm Gabriel Henrique👋</h2>
 
----
 ###
 
 <p align="left">Full-Stack Developer at @Infracommerce.</p>
