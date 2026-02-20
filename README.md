@@ -1,34 +1,36 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<h2 align="left">Hey, I'm Gabriel Henrique👋</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Henrique;I'm+23+years+old;I+am+from+São+Paulo;I'm+Front+End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+---
+###
 
-### 👤 About me:
+<p align="left">Full-Stack Developer at @Infracommerce.</p>
 
-- :hugs: My [Curriculum](https://gitconnected.com/gabriek0/resume)
-- :bookmark_tabs: My Portfolio: [Portfolio](https://portfolio-3-0-eosin.vercel.app/)
-- ⛑️ Connect with me on [LinkedIn](https://www.linkedin.com/in/gabriel-henrique-664bb219a/)
-- 📫 Contact me: **gabriel.sanches170@gmail.com**
-- 🌱 I’m currently learning **NodeJS, MongoDB, Express, NestJS, Vitest and Jest.**
+###
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gabriek0&show_icons=true&layout=compact&langs_count=16&theme=dracula" alt="Gabriel Henrique github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gabriek0&layout=compact&langs_count=16&theme=dracula" />
+<p align="left">Postgraduate in Software Engineering and a degree in Systems Analysis and Development. Currently developing the Mais Correios marketplace using VTEX, React.js, Node.js, and Jest. Previously contributed to high-impact Infinite Shelf solutions utilizing NestJS, RabbitMQ, and Docker. Expert in Next.js and PostgreSQL, with a strong focus on building scalable, well-tested architectures. Currently expanding technical depth in Java for enterprise-level backend systems.</p>
+
+### 
+
+<h4 align="left">About me</h4>
+
+- My [Resume](https://gitconnected.com/gabriek0/resume)
+- My Portfolio: [Portfolio](https://portfolio-3-0-eosin.vercel.app/)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/gabriel-henrique-664bb219a/)
+
+---
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" alt="React"  />
+  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30" alt="Next"  />
+  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="30" alt="Next"  />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="Next"  />
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="30" alt="Next"  />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="Next"  />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="30" alt="Next"  />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="Next"  />
+
 </div>
 
-### 🤹 Main skills:
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,html,css)](https://skillicons.dev)
-
-### 🛠️ Tools:
-
-[![My Skills](https://skillicons.dev/icons?i=figma,git,github,linux,vscode)](https://skillicons.dev)
-
-### 💡 Other Knowledge:
-
-[![My Skills](https://skillicons.dev/icons?i=remix,webpack,firebase,postgres,tailwind,python)](https://skillicons.dev)
-
-### 📚 Studying in this moment:
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,mongodb,java)](https://skillicons.dev)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+###
