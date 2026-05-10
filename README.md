@@ -13,7 +13,7 @@
 <h4 align="left">About me</h4>
 
 - My [Resume](https://gitconnected.com/gabriek0/resume)
-- My Portfolio: [Portfolio](https://portfolio-3-0-eosin.vercel.app/)
+- My Portfolio: [Portfolio]([https://portfolio-3-0-eosin.vercel.app/](https://personal-portfolio-topaz-xi-83.vercel.app/en))
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/gabriel-henrique-664bb219a/)
 
 ---
